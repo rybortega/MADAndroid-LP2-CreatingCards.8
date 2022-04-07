@@ -2,7 +2,7 @@
 ## Flashcard_app
 
 
-## Lab 1
+## Lab 4
 
 ### App Description
 Presents a user Question to the User and outputs the final 
@@ -16,6 +16,9 @@ Presents a user Question to the User and outputs the final
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ## Required
+- [x] User sees a transition animation when going from the main screen to the add card screen.
+- [x] User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [x] User sees flashcards animating in / out when the 'next' button is tapped                                           
 - [x] Create New Project in Android Studio
 - [x] Add a view for the front side of the flashcard to display the question
 - [x] Add a view for the back side of the flashcard to display the answer
