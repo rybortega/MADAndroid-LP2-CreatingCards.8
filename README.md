@@ -9,7 +9,7 @@ Presents a user Question to the User and outputs the final
 
 ### App Walk-though
 
-![GIF](https://i.imgur.com/ZThwE1F.gif) 
+![GIF](https://imgur.com/Js6hrMS.gif) 
 
 
 
